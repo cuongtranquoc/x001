@@ -1,0 +1,5 @@
+# Please don't add all of EllipseAutomation to this file
+# If you have questions, ask me (kohei.sugimoto@mincom.com)
+
+EllipseAutomation/selenium.log*
+EllipseAutomation/bin
